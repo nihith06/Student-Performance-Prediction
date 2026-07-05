@@ -1,0 +1,16 @@
+Study_Hours,Attendance,Previous_Grade,Sleep_Hours,Gender,Parent_Education,Internet_Access,Family_Support,Extracurricular,Exam_Score
+5,90,82,7,Male,Graduate,Yes,Yes,Yes,84
+3,75,68,6,Female,High School,Yes,No,No,69
+7,95,88,8,Male,Graduate,Yes,Yes,Yes,92
+2,60,55,5,Female,High School,No,No,No,54
+6,88,80,7,Male,Graduate,Yes,Yes,Yes,86
+4,70,65,6,Female,College,Yes,Yes,No,72
+8,98,92,8,Male,Postgraduate,Yes,Yes,Yes,96
+5,85,78,7,Female,College,Yes,Yes,Yes,81
+1,50,45,5,Male,High School,No,No,No,46
+6,90,84,7,Female,Graduate,Yes,Yes,Yes,89
+7,92,87,8,Male,Graduate,Yes,Yes,Yes,91
+3,68,60,6,Female,College,Yes,No,No,64
+4,80,72,7,Male,College,Yes,Yes,No,76
+2,58,50,5,Female,High School,No,No,No,52
+9,99,95,8,Male,Postgraduate,Yes,Yes,Yes,98
